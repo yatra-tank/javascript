@@ -64,3 +64,16 @@
 
 // var num = 17%-4
 // console.log(num)
+
+// var bonusPoints = 50;
+// var playerPoints = 100;
+// playerPoints += bonusPoints
+// console.log(`Existing Score: ${playerPoints}`)
+
+// let totalMonths = 120; 
+// let remainingMonths = totalMonths - 1; 
+// console.log(`Remaining Months: ${remainingMonths}`); 
+
+let price = 100; 
+price *= 0.75;  
+console.log(`The price: ${price}`)
