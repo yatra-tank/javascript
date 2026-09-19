@@ -98,6 +98,22 @@
 // playlistIndex %= totalSongs;
 // console.log(`The song index is ${playlistIndex}`)
 
-let shift = 3;
-shift = (shift + 1) % 3;
-console.log(shift); 
+// let shift = 3;
+// shift = (shift + 1) % 3;
+// console.log(shift); 
+
+// let edge = 4;
+// let volm = edge;
+// volm **= 4;
+// console.log(`The volume is ${volm}`)
+
+// let prompt = require("prompt-sync")();
+// let inpu = prompt("enter a number: ")
+// console.log(inpu)
+
+let a = 7;
+let b = 7;
+console.log(a==b) //true
+console.log(a===b) //true
+
+console.log(7 == "007")
