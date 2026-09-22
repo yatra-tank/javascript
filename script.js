@@ -111,9 +111,17 @@
 // let inpu = prompt("enter a number: ")
 // console.log(inpu)
 
-let a = 7;
-let b = 7;
-console.log(a==b) //true
-console.log(a===b) //true
+// let a = 7;
+// let b = 7;
+// console.log(a==b) //true
+// console.log(a===b) //true
+// console.log(7 == "007")
 
-console.log(7 == "007")
+// let pin = 1234;
+// let inputPin = 3456;
+// console.log(pin == inputPin);
+
+let savedLang = "en";
+let browserLang = "en";
+let res = (savedLang != browserLang);
+console.log(`The language verification is ${res}`)
