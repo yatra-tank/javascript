@@ -121,7 +121,8 @@
 // let inputPin = 3456;
 // console.log(pin == inputPin);
 
-let savedLang = "en";
-let browserLang = "en";
-let res = (savedLang != browserLang);
-console.log(`The language verification is ${res}`)
+// let savedLang = "en";
+// let browserLang = "en";
+// let res = (savedLang != browserLang);
+// console.log(`The language verification is ${res}`)
+
