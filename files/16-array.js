@@ -7,20 +7,20 @@
 // }
 // console.log(bag)
 
-let mat = [
-    [10, 20, 30],
-    [40, 50, 60],
-    [70, 80, 90]
-];
+// let mat = [
+//     [10, 20, 30],
+//     [40, 50, 60],
+//     [70, 80, 90]
+// ];
 
-let rows = mat.length;
-let cols = mat[0].length;
-console.log(rows, cols)
+// let rows = mat.length;
+// let cols = mat[0].length;
+// console.log(rows, cols)
 
-for (let i = 0; i < rows; i ++){
-    bag = " "
-    for (let j = 0; j <  cols; j ++){
-        bag += mat [i][j] + " "
-    }
-    console.log(bag)
-}
+// for (let i = 0; i < rows; i ++){
+//     bag = " "
+//     for (let j = 0; j <  cols; j ++){
+//         bag += mat [i][j] + " "
+//     }
+//     console.log(bag)
+// }
