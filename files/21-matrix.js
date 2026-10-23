@@ -50,4 +50,4 @@ for (const mark of marks){
     sum += mark
 };
 let avg = sum / marks.length
-condsole.log(lowest, highest, sum , avg)
+condsole.log(lowest, highest, sum, avg)
