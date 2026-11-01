@@ -41,13 +41,26 @@
 //     console.log(i)
 // }
 
-let marks = [90, 72, 85, 68, 53];
-let highest = -Infinity;
-let lowest = Infinity;
-for (const mark of marks){
-    let highest = mark > highest ? mark : highest;
-    let lowest = mark > lowest ? mark : lowest;
-    sum += mark
-};
-let avg = sum / marks.length
-condsole.log(lowest, highest, sum, avg)
+// let marks = [90, 72, 85, 68, 53];
+// let highest = -Infinity;
+// let lowest = Infinity;
+// for (const mark of marks){
+//     let highest = mark > highest ? mark : highest;
+//     let lowest = mark > lowest ? mark : lowest;
+//     sum += mark
+// };
+// let avg = sum / marks.length
+// condsole.log(lowest, highest, sum, avg)
+
+// const codingGitaStudents = [
+//     ["Jenil", [85, 50, 70]],
+//     ["Asha", [33, 66, 45]],
+//     ["Arna", [85, 77, 98]]
+// ];
+
+// for (let i = 0; i <= codingGitaStudents.length - 1; i ++){
+//     let studentName =  codingGitaStudents[i][0];
+
+//     let marks = " "
+//     for (let i = 0; i <= )
+// }
